@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Erik/CLionProjects/Polinom-Tema3/Polinom.h
+iostream
+-
+fstream
+-
+
+C:/Users/Erik/CLionProjects/Polinom-Tema3/main.cpp
+iostream
+-
+Polinom.h
+C:/Users/Erik/CLionProjects/Polinom-Tema3/Polinom.h
+fstream
+-
+

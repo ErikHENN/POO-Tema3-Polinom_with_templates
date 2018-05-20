@@ -1,0 +1,3 @@
+C:/Users/Erik/CLionProjects/Polinom-Tema3/cmake-build-debug/CMakeFiles/Polinom_Tema3.dir
+C:/Users/Erik/CLionProjects/Polinom-Tema3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Erik/CLionProjects/Polinom-Tema3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
